@@ -56,3 +56,4 @@ ResQConnect/
 
 The main objective of ResQConnect is to enhance disaster preparedness and response by using technology to improve communication and coordination between affected individuals, volunteers, and authorities.
 The project focuses on practical implementation of full-stack development and system design principles while addressing a real-world social issue.
+
